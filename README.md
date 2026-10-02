@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banniere.png" alt="Casteria, ton île dans le ciel. Un serveur Skyblock moddé : ton île, tes machines, tes bêtes et des boss à affronter." width="100%">
+  <img src="images/banniere.png" alt="Casteria, ton île sur la mer. Un serveur Minecraft moddé : ton île, tes machines, tes bêtes, la mer et des boss à affronter." width="100%">
 </p>
 
 <p align="center">
