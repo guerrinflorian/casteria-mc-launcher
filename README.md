@@ -92,7 +92,7 @@ correspond ? Contacte un membre du staff sur Discord, ou fais un ticket sur le s
 Tu préfères ton launcher habituel ? Il te faut Minecraft **1.21.1** avec **NeoForge 21.1.251**, et tous les mods du serveur, à leur
 dernière version : demande le paquet des joueurs au staff (Discord ou ticket sur le site de Casteria).
 
-L'adresse du serveur : `gm52-dc02.ouiheberg.com:25681`
+L'adresse du serveur : `game46-dc02.ouiheberg.com:8268`
 
 Le launcher de Casteria reste le plus simple : il fait tout ça tout seul, et garde tes mods à jour à chaque mise à jour du
 serveur.
