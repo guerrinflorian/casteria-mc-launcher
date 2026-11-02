@@ -88,7 +88,7 @@ Casteria se joue seulement avec son launcher : il installe le jeu et les mods du
   <img src="images/galerie_palais.jpg" alt="Le palais de Casteria : ses tours, ses ponts, ses boutiques et ses montgolfières" width="100%">
 </p>
 
-<p align="center">Au palais, tout le monde se retrouve : Ludovic et ses quêtes, les mini-jeux du soir (tape <code>/participer</code> de partout) et Anselme, qui t'ouvre les donjons, à faire seul ou à trois.</p>
+<p align="center">Au palais, tout le monde se retrouve : Ludovic et ses quêtes, les mini-jeux (le Rayon Éclair toutes les 1 h 30, d'autres le soir : tape <code>/participer</code> de partout) et Anselme, qui t'ouvre les donjons, à faire seul ou à trois.</p>
 
 <br>
 
@@ -102,7 +102,7 @@ Casteria se joue seulement avec son launcher : il installe le jeu et les mods du
 
 **Et aussi :**
 
-- **Des niveaux, de 1 à 70** : chaque grande étape s'ouvre à son niveau, du premier jour jusqu'au bout de la route.
+- **Des niveaux, de 1 à 70, puis des Étoiles** : chaque grande étape s'ouvre à son niveau, du premier jour jusqu'au bout de la route. Au niveau 70, ton XP remplit des Étoiles, et chacune donne une clé.
 - **Ton île à plusieurs** : avec `/amis`, invite tes amis et choisis leurs droits. Avec le droit Machines, un ami récolte tes machines même sans toi.
 - **Des jetons à gagner** : vends tes récoltes au marché (`/sell all`), ou fixe ton prix entre joueurs à l'hôtel des ventes (`/hdv`).
 - **Objets et recettes** : `/recettes` ouvre le livre de chaque objet du serveur, sa recette et à quoi il sert.
@@ -135,6 +135,9 @@ minutes, selon ta connexion internet. Ne ferme pas le launcher.
 
 **« Le serveur redémarre ou s'est arrêté. Réessaie dans une minute. »** : attends une minute, puis clique encore sur
 **JOUER**.
+
+**« Casteria est plein »** : laisse le launcher ouvert. Il te dit ta place dans la file et lance le jeu tout seul dès
+qu'une place se libère.
 
 **« Le serveur est complet pour le moment : réessaie dans quelques minutes. »** : une place va se libérer. Clique
 encore sur **JOUER** dans quelques minutes.
